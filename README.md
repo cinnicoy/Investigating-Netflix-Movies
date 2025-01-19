@@ -10,7 +10,7 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 
 ## Project Description
 
-Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
+Explore Netflix movie data and perform exploratory data analysis to uncover insights about movies from a particular decade.
 
 ## The data
 ### **netflix_data.csv**
