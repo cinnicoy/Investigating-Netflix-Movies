@@ -8,6 +8,10 @@ You work for a production company that specializes in nostalgic styles. You want
 
 You have been supplied with the dataset `netflix_data.csv`, along with the following table detailing the column names and descriptions. Feel free to experiment further after submitting!
 
+## Project Description
+
+Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
+
 ## The data
 ### **netflix_data.csv**
 | Column | Description |
